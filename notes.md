@@ -1,1 +1,5 @@
+# Week Six
+
+For this week, I chose data from the digitial transgender archive, where I analyzed clippings from the chosen topic of 'Military' from within the archive. The time period of these military clippings  were from the year 1890 to 2020.
+
 
