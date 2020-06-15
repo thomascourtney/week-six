@@ -54,3 +54,6 @@ Building a static site through github was extremely easy and this method of shar
 
 ![screenshot](ss-5.png)
 
+I would love to put a little more time and effort into my static site, exploring new desings while creating an immersive experience.
+
+The link to my statis website is: https://thomascourtney.github.io/
