@@ -9,4 +9,4 @@ I followed the OCR process from Week 2, the process is fairly simple after attem
 
 ![screenshot](s1.png)
 
-![screenshot](s
+![screenshot](s2.png)
