@@ -43,3 +43,7 @@ It was intesredting to see the trends in the graphs when looking at the graphs i
 It was interesting to see that phrases did not occur frequently, over thousands of words the most common phrase was "of the" and that only occured 8 times. 
 
 ![screenshot](ss-4.png)
+
+It was intresting to use this feature above also, when selecting a word, you can see what other words occur with the original word. So you can see the correlation between words. You can also see in how many individual documents the word occurs in
+
+
