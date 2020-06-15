@@ -42,4 +42,4 @@ It was intesredting to see the trends in the graphs when looking at the graphs i
 
 It was interesting to see that phrases did not occur frequently, over thousands of words the most common phrase was "of the" and that only occured 8 times. 
 
-![screenshot](
+![screenshot](ss-4.png)
