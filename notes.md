@@ -52,4 +52,5 @@ Using these 3 tools we have learned from the first, the method of putting the in
 
 Building a static site through github was extremely easy and this method of sharing makes it better for a large amount of people to access your findings from your repository. 
 
+![screenshot](ss-5.png)
 
