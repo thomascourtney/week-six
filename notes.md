@@ -46,4 +46,10 @@ It was interesting to see that phrases did not occur frequently, over thousands 
 
 It was intresting to use this feature above also, when selecting a word, you can see what other words occur with the original word. So you can see the correlation between words. You can also see in how many individual documents the word occurs in
 
+This is the link to my corpus here: https://voyant-tools.org/?corpus=efa5d244d5fc6d79e6d7bf1a06ec250a
+
+Using these 3 tools we have learned from the first, the method of putting the information to share that I have chosen is posting my findings on my static website that I have created from the previous week. 
+
+Building a static site through github was extremely easy and this method of sharing makes it better for a large amount of people to access your findings from your repository. 
+
 
