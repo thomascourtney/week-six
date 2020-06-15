@@ -7,6 +7,6 @@ The selected clips totalled around 30 documents. I then opened the apppliation f
 I followed the OCR process from Week 2, the process is fairly simple after attempting it several times from previous weeks. With the txt files extracted from the jpeg files, it was now time to insert these text files into Voyant Tools to get a more visual and comprehensive look at our data.
 
 
-![screenshot](s
+![screenshot](ss-3.png)
 
 ![screenshot](s2.png)
